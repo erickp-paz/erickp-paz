@@ -3,7 +3,7 @@
 Product Manager with a developer background (React / React Native), now building games in **Unity**. I like turning cozy ideas into tight, readable game loops.
 
 **Featured**
-- 🐈 [Mirio & Shoto: Patrulha do Potinho](https://github.com/erickp-paz/mirio-e-shoto_patrulha-do-potinho): isometric survival prototype in Unity (C#), with per-character stats, 7 enemy types with distinct behaviours and pixel-art sprites.
+- 🐈 [Mirio & Shoto: Patrulha do Potinho](https://github.com/erickp-paz/mirio-e-shoto_patrulha-do-potinho): isometric survival prototype in Unity (C#), with per-character stats, 7 enemy types with distinct behaviours and pixel-art sprites. **[Play on itch.io](https://zerefwd.itch.io/mirio-shoto-patrulha-do-potinho)**
 
 **Currently**
 - 🎮 Studying Digital Games (expected March 2027)
@@ -11,4 +11,4 @@ Product Manager with a developer background (React / React Native), now building
 
 **Tech:** C# · Unity · TypeScript · React · React Native
 
-📍 Belo Jardim, Brazil · 📫 ericknathan.paz@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/erick-paz)
+📍 Belo Jardim, Brazil · 📫 ericknathan.paz@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/erick-paz) · 🎮 [itch.io](https://zerefwd.itch.io)

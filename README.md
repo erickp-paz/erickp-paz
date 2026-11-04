@@ -1,29 +1,14 @@
-### Hi there 👋
+### Hi, I'm Erick 👋
 
-- 🔭 I’m currently working on Deeper Systems
-- 🌱 I’m currently learning Javascript, React and React Native
+Product Manager with a developer background (React / React Native), now building games in **Unity**. I like turning cozy ideas into tight, readable game loops.
 
-<div>
-  <a href="https://github.com/erickp-paz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=erickp-paz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickp-paz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Erick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Erick-gif" height="150" width="150" src="https://media.discordapp.net/attachments/800034950875054092/870774889307590696/Nathanzinho_GIF-downsized.gif?width=468&height=468">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/zervis99/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ericknathan.paz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/erickp-paz/erickp-paz/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+**Featured**
+- 🐈 [Mirio & Shoto: Patrulha do Potinho](https://github.com/erickp-paz/mirio-e-shoto_patrulha-do-potinho): isometric survival prototype in Unity (C#), with per-character stats, 7 enemy types with distinct behaviours and pixel-art sprites.
+
+**Currently**
+- 🎮 Studying Digital Games (expected March 2027)
+- 🔭 Prototyping small, finished games and publishing them on itch.io
+
+**Tech:** C# · Unity · TypeScript · React · React Native
+
+📍 Belo Jardim, Brazil · 📫 ericknathan.paz@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/erick-paz)
